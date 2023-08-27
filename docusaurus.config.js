@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Notes',
-  tagline: 'To be changed...',
+  tagline: 'To be changed.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
