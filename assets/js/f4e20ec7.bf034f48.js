@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkambitious_notes=self.webpackChunkambitious_notes||[]).push([[6096],{6388:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/ambitious-notes/blog/tags/docusaurus","allTagsPath":"/ambitious-notes/blog/tags","count":4}')}}]);

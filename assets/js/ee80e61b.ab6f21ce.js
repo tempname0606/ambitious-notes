@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkambitious_notes=self.webpackChunkambitious_notes||[]).push([[7541],{3050:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/ambitious-notes/blog/tags/facebook","allTagsPath":"/ambitious-notes/blog/tags","count":1}')}}]);
