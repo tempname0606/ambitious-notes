@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkambitious_notes=self.webpackChunkambitious_notes||[]).push([[8161],{8436:e=>{e.exports=JSON.parse('{"permalink":"/ambitious-notes/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

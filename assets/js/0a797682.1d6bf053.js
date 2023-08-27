@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkambitious_notes=self.webpackChunkambitious_notes||[]).push([[1340],{1888:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/ambitious-notes/blog/tags/hello","allTagsPath":"/ambitious-notes/blog/tags","count":2}')}}]);
