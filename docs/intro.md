@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /ambitious-notes
+slug: /
 ---
 
 # Tutorial Intro
