@@ -1,0 +1,9 @@
+{
+    "label": "Stack",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Basic theory about stacks as well as Leetcode oriented Java Array code excerpts."
+    }
+}
+  
