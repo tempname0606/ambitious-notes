@@ -65,3 +65,5 @@ stack.isEmpty(); // Returns true
 stack.push(1); // Returns 1
 stack.isEmpty() // returns false
 ```
+
+changes
