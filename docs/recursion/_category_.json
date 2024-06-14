@@ -1,6 +1,5 @@
 {
-    "label": "Arrays",
-    "position": 2,
+    "label": "Recursion",
     "link": {
       "type": "generated-index",
       "description": "Basic theory about arrays as well as Leetcode oriented Java Array code excerpts."
